@@ -280,7 +280,7 @@ It expected `shortGreeting` to contain the string `"Welcome, "`, but
 ```js
 ...
 
-const shortGreeting = 'Welcome, ';
+ shortGreeting = 'Welcome, ';
 ```
 
 Next up is another `AssertionError`, this one checking that `shortGreeting`
